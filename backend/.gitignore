@@ -9,3 +9,7 @@ tests
 
 # media file
 media
+
+# pycache
+*.pyc
+__pycache__
