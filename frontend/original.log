@@ -1,0 +1,420 @@
+commit 5c21e5b4cc626e14cc554ec8d64b02b9f318d9f4
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sun Sep 13 15:52:28 2020 -0400
+
+    hide fb api key
+
+commit e6f671735974062229c60c94665f7f39763c2598
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sun Sep 13 15:51:55 2020 -0400
+
+    add secrets to gitignore
+
+commit b5a50397238dd1c74b7d331afed170d5b055e6dd
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sun Sep 13 14:40:42 2020 -0400
+
+    pagination fix, elipses render earlier
+
+commit 6b134f177aa0cc24cb4b85eb85d4898585780d1d
+Merge: 848aa1f 7d2395d
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sun Sep 6 20:26:11 2020 -0400
+
+    pull updated readme.md
+
+commit 7d2395d5a2f9ea644960328815c86e3bea458d84
+Author: Aiden Stern <54781286+aidenstern@users.noreply.github.com>
+Date:   Sun Sep 6 20:25:05 2020 -0400
+
+    Update README.md
+
+commit 848aa1f471df32514d451235c9734ed6fd4d470d
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sun Sep 6 19:57:11 2020 -0400
+
+    delete sensitive info
+
+commit 75d75cb3534914b5707e6f3764027dbeeea065c6
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Sep 2 18:06:19 2020 -0400
+
+    correct ellipses rendering
+
+commit dfc0df38611f60b72071ba4c5db8263c66b6eb6b
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Sep 2 15:06:31 2020 -0400
+
+    pagination dynamic styling
+
+commit 636407c9d57adda028c663f2678c78ce131bb4f8
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Tue Sep 1 14:57:21 2020 -0400
+
+    pagination working properly with categories
+
+commit 9b1cbecb9b4b80b93586a2932719db3e4ba87437
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Tue Sep 1 12:12:27 2020 -0400
+
+    added pagination from backend
+
+commit 9b0650900263c80963a03dad191977a73dc68b28
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sun Aug 30 19:16:54 2020 -0400
+
+    storeheader added
+
+commit c34649bc3f608acc5af2b388ba0cfa6b9b8cacfe
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sun Aug 30 17:37:40 2020 -0400
+
+    added brand checkboxes
+
+commit 828ec5860327b52b76e9394753652ad709cf7229
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sun Aug 30 17:37:31 2020 -0400
+
+    storeheader init
+
+commit 337d6c7795a8684a802d1d3428c1da2b9f855741
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sun Aug 30 16:10:48 2020 -0400
+
+    use slug for route params, filter on backend
+
+commit 695a0aace8f4521c8b8159d2d86c92816e905863
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sun Aug 30 01:50:11 2020 -0400
+
+    router for store menu fix
+
+commit 6f81c70a04ec9b155e99d9a228b65a56bf77a14b
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sat Aug 29 21:46:29 2020 -0400
+
+    refactors
+
+commit 27234315a1728c35bcbb6220b4abf522aaef7b17
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sat Aug 29 21:46:23 2020 -0400
+
+    refactors
+
+commit 84cb6213ae0fef99a67866c9cd63a81212a4b479
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sat Aug 29 19:40:56 2020 -0400
+
+    subcategory rendering
+
+commit 143b1c7fbd21073b29efc1cfbf908564c7e28456
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 27 13:22:50 2020 -0400
+
+    menu ui improved
+
+commit 30d08f71244cf5fcc4674ddfe5177d2833fc1441
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 27 13:11:39 2020 -0400
+
+    storemenu added
+
+commit ab1a19dcdbd0784eb239ebbfe4c35bcfd2d34c4b
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 27 10:37:38 2020 -0400
+
+    await product api call
+
+commit 4bdf50f918c132d3e201c1f5e67807469f235cfe
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 27 10:37:23 2020 -0400
+
+    abstract repetitive code
+
+commit 101e0e176df5fc040979c36ce194fa633a78130f
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 27 10:37:12 2020 -0400
+
+    abstract repetitive code
+
+commit a2cda64a395e03c4b07da9da091c9f100f8ffd01
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 27 10:36:52 2020 -0400
+
+    profile router fix
+
+commit 44a5ef73d873385d08aa41ee3a32a21d32237966
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 27 09:31:47 2020 -0400
+
+    api product call for store page
+
+commit 57000dde8465efebfc2e8ca1a41c4d7bee71cf1f
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 27 00:36:51 2020 -0400
+
+    router configured with profile
+
+commit 78c519f521614d9dd8f61ee5cf080e604565214e
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 27 00:36:29 2020 -0400
+
+    storeproduct init
+
+commit 66b1eb90f1474a90e562eb6c3b57429aad3aeb2e
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 27 00:36:20 2020 -0400
+
+    mobile fix
+
+commit f48d14e351e1f7825ae0909d25858c3397c353ae
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 26 21:46:50 2020 -0400
+
+    ordercard component
+
+commit e47155725cc9a9e8b0e048f8465133e86edd1dbf
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 26 21:35:38 2020 -0400
+
+    alert clear
+
+commit a5d33317d949db8369170e2377b54f5f2e11e61b
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 26 21:35:30 2020 -0400
+
+    profile view init
+
+commit ef52789e41a5f7d12637464fed401f58388f87d6
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 26 21:35:11 2020 -0400
+
+    router fix
+
+commit b88afdb89e57f63e0a327d56444708e88bf70f7e
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 26 19:31:59 2020 -0400
+
+    refactor
+
+commit 3aa7dd6269d5fa26d527a81392cdf8632b9c2b6a
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sat Aug 22 17:56:25 2020 -0400
+
+    added a better user module for state management
+
+commit 43f1a69a9187d8ba6f84c447dff4ced01ecabce3
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sat Aug 22 17:56:06 2020 -0400
+
+    vuex fixes
+
+commit 72b0a095fd7979b8e3ff5f7ae2d34e5c04733bd2
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Thu Aug 20 16:08:20 2020 -0400
+
+    login and logout working
+
+commit bec9374ade4eadded228d2c52dab280976f693c4
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 19 13:59:22 2020 -0400
+
+    get token from response
+
+commit 7afe92e4c1e9baa153c06b616bb32a4bc254aa67
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 19 13:59:06 2020 -0400
+
+    remove timeout
+
+commit 761f1b14f77cbe2131437d9237ca5c288766848a
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 19 13:58:56 2020 -0400
+
+    login working properly, closes modal on success
+
+commit 82facea47ea07b38499c95d312bc03cfb8562473
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 19 13:31:29 2020 -0400
+
+    removed promises
+
+commit c46890d1fbf48d6fd24ba285312105f36d453530
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 19 12:42:00 2020 -0400
+
+    vuex configured with router
+
+commit cc1c627330255188c01c282b7822e3825acbd100
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 19 12:41:50 2020 -0400
+
+    vuex user authentication started
+
+commit 6bc23bfc9a33f35e9d4a15289c736e3733f2b196
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 19 12:06:20 2020 -0400
+
+    vuex install
+
+commit 13ebab80c343f3ced6daed25471dc183e7fa2754
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 19 12:06:07 2020 -0400
+
+    added button styling and privacy policy disclaimer
+
+commit a13cdf72f0c0752400598e54ff51a1a5f95f06cd
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Tue Aug 18 16:44:47 2020 -0400
+
+    added working register button on navbar
+
+commit 20fcc1f1343d1d44d68d5a1792a0a23126a153a6
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Tue Aug 18 16:37:45 2020 -0400
+
+    login/registration modal finished
+
+commit fb94184b9b18fc0b80336d18b44b7dc092c4b147
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Tue Aug 18 16:37:33 2020 -0400
+
+    registration form init
+
+commit a9382be216124fe733b7ae62a7d216d4269a0c45
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Tue Aug 18 15:53:56 2020 -0400
+
+    proper navigation between login and register
+
+commit ef91a865b9090195dbb86f2862927c9db9776aa5
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Tue Aug 18 15:43:21 2020 -0400
+
+    icon alignment fixes
+
+commit 196534cc11cb6c4fcd56f6b9a9c99096e430fd1a
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Tue Aug 18 15:11:32 2020 -0400
+
+    added forgot password and log in button
+
+commit 8ca72bea7348fcf37b0064879dae8857f0ce5bcf
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Tue Aug 18 14:47:08 2020 -0400
+
+    login modal changes, added social logins
+
+commit 435c42934a698fc8a021ca860d595ca2e4f78bf4
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Tue Aug 18 14:46:49 2020 -0400
+
+    font awesome import
+
+commit 0a811f07ce5abc580c8f83c7554826eb6f46c8ad
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Tue Aug 18 14:46:39 2020 -0400
+
+    added facebook and google login buttons
+
+commit 673db33c65e00bb841b2f5c8912798d33f1ea57d
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Mon Aug 17 23:49:25 2020 -0400
+
+    facebook login now gets email, sdk fixes
+
+commit 5781f9a08dbdec4e005b8b2363e66a59239385be
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Mon Aug 17 22:26:45 2020 -0400
+
+    added login modal with facebook login button
+
+commit c949a92695faedf1af227936117bf11fa477bdbf
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Mon Aug 17 18:29:09 2020 -0400
+
+    added dev https capability
+
+commit b1b5cdd8b0c9ca3e4b683feb6f6ebcf580b649bc
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Mon Aug 17 18:24:36 2020 -0400
+
+    added facebook login
+
+commit 55f67a1cf7fa1b2db2045338114b8f5f91451883
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 12 19:41:16 2020 -0400
+
+    formatting on home
+
+commit 159b382f02a1f5f8c8effbcd09fa4fcf16f079d5
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 12 14:04:47 2020 -0400
+
+    formatting and css changes
+
+commit 966d9ccf449c0bccc8d2a704fa32ade253b60629
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Wed Aug 12 11:55:26 2020 -0400
+
+    bulma refactor - even better navbar
+
+commit 9cd84f4325bb9cdd8136f4466f1844d1d04cbec8
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Mon Aug 10 16:21:33 2020 -0400
+
+    added login modal and cleaner navbar
+
+commit deecadd8dae8855272687ff034a1bcead9bef701
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Mon Aug 10 15:22:53 2020 -0400
+
+    reformatting, using buefy/bulma
+
+commit 0bf8b20c1c018a576c2603c245a03e20c0656ef1
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Mon Aug 3 21:47:30 2020 -0400
+
+    added new checkout form
+
+commit fe520415348d4e78629da7171530cb2a8dc5a333
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Mon Aug 3 16:20:08 2020 -0400
+
+    updated navbar
+
+commit 660e8c3e8c653e52d864e1e2d701d06923a63d8e
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Mon Aug 3 14:14:07 2020 -0400
+
+    added tailwind css
+
+commit d22ff63f46c2095f6b3ac6cbb5f2e04c57a2f7bd
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Sat Aug 1 03:47:43 2020 -0400
+
+    router fixes, views added
+
+commit e5b659d3f28ea70a95062efc32f5812ff7dafd06
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Fri Jul 31 23:55:40 2020 -0400
+
+    navbar and router added
+
+commit 88f9eb77615449658901a3c9dce16c0f4a638d52
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Fri Jul 31 18:19:49 2020 -0400
+
+    added proper user input to api
+
+commit e4d00cbfaa3f8f3356e1c5e20353428b97ab31e2
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Fri Jul 31 18:12:48 2020 -0400
+
+    added axios auto token refresh for api
+
+commit 8b22bf87822e6f1fc6d06bf5a2cb6fc4853a6d31
+Author: Aiden Stern <aiden.stern@gmail.com>
+Date:   Fri Jul 31 14:34:30 2020 -0400
+
+    init commit
